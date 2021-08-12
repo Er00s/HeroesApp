@@ -11,7 +11,12 @@ Utiliza Firebase para archivar los heroes generando un ID online para el uso de 
 
 ## Development server
 
-Para correr la aplicacion solo se debe inicializar el comando 'Ng Serve', con Angular CLI previamnete instalado
+Para correr la aplicacion solo se debe inicializar dos comandos en consola:
+<ul> 
+<li> npm install</li> 
+<li> ng serve</li> 
+</ul>
+Y luego abrir el navegador en el Host determinado, que enventualmente suele ser el http://localhost:4200
 
 ## Imagenes del proyecto
 
